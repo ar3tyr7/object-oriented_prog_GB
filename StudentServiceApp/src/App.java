@@ -62,7 +62,6 @@ public class App {
         {
             System.out.println(group);
         }
-
         // System.out.println("============= после сортировки =============");
         // Collections.sort(group.getStudents());
 
